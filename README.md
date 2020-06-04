@@ -28,8 +28,7 @@ Model was trained using following losses:
 
 <img src="https://raw.githubusercontent.com/MankaranSingh/Auto-Birds-Eye/master/images/train.JPG?token=AKHLNLCQSHVNQDCMV6XENQS64J6EY" alt="drawing"/>
 
-<img src="https://raw.githubusercontent.com/MankaranSingh/Auto-Birds-Eye/master/images/loss.JPG?token=AKHLNLAHOPRTWPABYFRE3OC64J6G2
-" alt="drawing"/>
+<img src="https://raw.githubusercontent.com/MankaranSingh/Auto-Birds-Eye/master/images/loss.JPG?token=AKHLNLGEPITHLWZKZLDSCZK64J644" alt="drawing"/>
 
 ### Front view images:
 
