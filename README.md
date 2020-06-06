@@ -2,7 +2,7 @@
 ## Bird's Eye view generation and Mapping through end-to-end deep learning.
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1gToGQ3_H7z4yEzM8Om0-zRdk9lGfQ50-?usp=sharing)
 
-First of all, this project wouldn't had been possible without [Maciek Dziubiński](https://medium.com/@ponadto). Please refer to his blog post [here](https://medium.com/asap-report/from-semantic-segmentation-to-semantic-birds-eye-view-in-the-carla-simulator-1e636741af3f) and show your support !
+First of all, this project wouldn't had been possible without [Maciek Dziubiński](https://medium.com/@ponadto).
 
 The repository works on building a model that takes in input the front camera image and generates the top-down view as well as simultaneous map generation (Can be thought of 2D SLAM). 
 
@@ -73,5 +73,7 @@ Although, the dataset contains images from **five** camera:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1gToGQ3_H7z4yEzM8Om0-zRdk9lGfQ50-?usp=sharing)
 
 ## References:
+
+[https://mono.software/2018/03/14/Image-stitching/](https://mono.software/2018/03/14/Image-stitching/)
 
 [https://medium.com/asap-report/from-semantic-segmentation-to-semantic-birds-eye-view-in-the-carla-simulator-1e636741af3f](https://medium.com/asap-report/from-semantic-segmentation-to-semantic-birds-eye-view-in-the-carla-simulator-1e636741af3f)
