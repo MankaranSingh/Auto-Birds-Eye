@@ -42,6 +42,12 @@ Model was trained using following losses:
 
 <img src="https://raw.githubusercontent.com/MankaranSingh/Auto-Birds-Eye/master/images/ground_truth.JPG?token=AKHLNLHUFWKVM735DNALYDS64JY7Y" alt="drawing"/>
 
+### Testing on real world data (Comma10k dataset):
+
+The model was trained on a simulator, but I was able to obtain good results after finetuning the model and some further image processing. See how the car is correctly localized to the right and th road curve is correctly detected.  
+
+<img src="https://raw.githubusercontent.com/MankaranSingh/Auto-Birds-Eye/master/images/comma10k.JPG" alt="drawing"/>
+
 
 ### Map Generation (In Progress) :
 
